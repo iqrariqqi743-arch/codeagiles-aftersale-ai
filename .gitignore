@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.vscode/
+*.dump
+*.sql
+npm-debug.log
+check-db.js
